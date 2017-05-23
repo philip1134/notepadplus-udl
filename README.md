@@ -1,4 +1,4 @@
-user define language syntax highlight setting for notepad++
+user define language syntax highlight setting for notepad++ （v7.x）
 
 support language:
 - go
